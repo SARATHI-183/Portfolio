@@ -9,11 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SARATHI-183",
     resume:
-<<<<<<< HEAD
       "https://drive.google.com/file/d/1gaec1REzNDNioLyH7i3ccp2JWa4T-d62/view?usp=drive_link",
-=======
-      "https://drive.google.com/file/d/1waLI_kLt8RJ5LAw3O5VhEBw6EG4A7X7p/view?usp=drivesdk",
->>>>>>> 47780b3a45ff38a0be63d888268728472a79799d
     linkedin: "https://www.linkedin.com/in/sarathi-p-78b980245/",
     twitter: "",
     insta: "https://www.instagram.com/_.sarathi__/",
@@ -272,7 +268,7 @@ export const Bio = {
 
   ];
   
-<<<<<<< HEAD
+
   // export const TimeLineData = [
   //   { year: 2017, text: "Started my journey" },
   //   { year: 2018, text: "Worked as a freelance developer" },
@@ -280,12 +276,6 @@ export const Bio = {
   //   { year: 2020, text: "Shared my projects with the world" },
   //   { year: 2021, text: "Started my own platform" },
   // ];
-=======
-  export const TimeLineData = [
-    { year: 2017, text: "Started my journey" },
-    { year: 2018, text: "Worked as a freelance developer" },
-    { year: 2019, text: "Founded JavaScript Mastery" },
-    { year: 2020, text: "Shared my projects with the world" },
-    { year: 2021, text: "Started my own platform" },
-  ];
->>>>>>> 47780b3a45ff38a0be63d888268728472a79799d
+
+ 
+

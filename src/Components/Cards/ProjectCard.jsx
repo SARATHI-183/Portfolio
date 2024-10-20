@@ -22,9 +22,9 @@ const ProjectCard = ({project}) => {
 
             <div className='text-[#b1b2b399] font-normal overflow-hidden text-ellipsis line-clamp-3 mt-[8px] max-w-full '>{project.description}</div>
             <div className='flex items-center group gap-2'>
-                <FaLink   className='text-[#b1b2b399] font-normal w-8 h-8 items-center mt-[8px] group-hover:text-[#854CE6]'/>
-                <a className='text-[#b1b2b399] font-normal overflow-hidden text-ellipsis line-clamp-1 mt-[8px] max-w-full group-hover:text-[#854CE6]' href={project.github}>
-                    {project.github}
+                <FaLink   className='text-[#b1b2b399] font-normal w-[20px] h-[20px] items-center mt-[8px] group-hover:text-[#854CE6]' />
+                <a className='text-[#b1b2b399]  font-normal overflow-hidden text-ellipsis line-clamp-1 mt-[8px] max-w-full group-hover:text-[#854CE6]' href={project.webapp || project.github} target='_blank'>
+                    {project.webapp || project.github}
                 </a>
            </div>
         </div>

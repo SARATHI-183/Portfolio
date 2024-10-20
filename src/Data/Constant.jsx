@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SARATHI-183",
     resume:
-      "https://drive.google.com/file/d/1CP10L19jAwN2X0iq2foh2CRfJlwcKg9Y/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1gaec1REzNDNioLyH7i3ccp2JWa4T-d62/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/sarathi-p-78b980245/",
     twitter: "",
     insta: "https://www.instagram.com/_.sarathi__/",
@@ -54,11 +54,11 @@ export const Bio = {
           image:
             "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
         },
-        // {
-        //   name: "Bootstrap",
-        //   image:
-        //     "https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png",
-        // },
+        {
+          name: "Tailwind CSS",
+          image:
+            "https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg",
+        },
         {
           name: "Material UI",
           image:
@@ -93,11 +93,11 @@ export const Bio = {
           image:
             "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
         },
-        {
-          name: "Flask",
-          image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png",
-        },
+        // {
+        //   name: "Flask",
+        //   image:
+        //     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png",
+        // },
         // {
         //   name: "Django",
         //   image:
@@ -124,6 +124,7 @@ export const Bio = {
 
   
   export const education = [
+    
     {
       id: 0,
       img: "https://media.licdn.com/dms/image/C4E0BAQGFNi0LBu6UBQ/company-logo_200_200/0/1631355989858?e=2147483647&v=beta&t=fa4LXUejVv3IFXioPpoDQ1SQ_DWQ4PfkHG4676A2uVY",
@@ -156,6 +157,49 @@ export const Bio = {
   export const projects = [
     {
       id: 0,
+      title: "Eflix",
+      date: "2024 - 2025",
+      description:
+        "Eflix is a full-stack web application designed for streaming movies and shows, providing users with a seamless browsing experience. The platform features user authentication, personalized recommendations, and a responsive interface, built using modern web technologies. With a robust backend and intuitive frontend, Eflix aims to deliver a comprehensive entertainment solution.",
+      image:
+        "https://github.com/user-attachments/assets/bfb09be0-9923-428f-8d94-fe64a6132c5c",
+      tags: ["React Js", "Tailwind CSS","JWT Auth","Express Js" ,"Node Js","TMDB API","MongoDB","Zustand"],
+      category: "web app",
+      github: "https://github.com/SARATHI-183/Eflix-web",
+      webapp: "https://eflix-web.onrender.com/",
+    },
+
+    {
+      id: 4,
+      title: "Todo Web App",
+      date: "2024 - 2025",
+      description:
+        " A Todo Web App made with React JS, Tailwind CSS and Local Storage.",
+      image:
+        "https://github.com/user-attachments/assets/4a22c0cf-6418-4851-b75d-387b90b7955f",
+      tags: ["React Js", "Local Storage" ,"Tailwind CSS"],
+      category: "web app",
+      github: "https://github.com/SARATHI-183/TodoApp",
+      webapp: "https://todo-app-66fd0b.netlify.app/",
+    },
+
+    {
+      id: 6,
+      title: "Tic Tac Toe Game",
+      date: "2024 - 2025",
+      description:
+        "Tic Tac Toe web app is a fun and interactive game built with HTML, CSS, and React Js. Players can easily take turns and compete against each other in this classic game.",
+      image:
+        "https://github.com/user-attachments/assets/a7bb2c43-0d7e-44c8-93ef-f42f286b128c",
+      tags: ["React Js", "HTML","CSS"],
+      category: "web app",
+      github: "https://github.com/SARATHI-183/TicTacToe-Game",
+      webapp: "https://tic-tac-toe-game-188a70.netlify.app/",
+    },
+
+
+    {
+      id: 5,
       title: "Hostar clone",
       date: "2023 - 2024",
       description:
@@ -220,26 +264,14 @@ export const Bio = {
       github: "https://github.com/SARATHI-183/Get-Into-Software",
     },
     
-    // {
-    //   id: 4,
-    //   title: "Todo Web App",
-    //   date: "Jun 2021",
-    //   description:
-    //     " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
-    //   image:
-    //     "https://camo.githubusercontent.com/84ac6ab6f378348ef28d8184062b7e9e3511a1252ae3966eaa49e8e998f732a7/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f74253230283938292e706e673f616c743d6d6564696126746f6b656e3d33643335646366322d626666322d343730382d393031632d343232383866383332386633",
-    //   tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
-    //   category: "web app",
-    //   github: "https://github.com/rishavchanda/Todo-Web-App",
-    //   webapp: "https://rishav-react-todo.netlify.app/",
-    // },
+    
 
   ];
   
-  export const TimeLineData = [
-    { year: 2017, text: "Started my journey" },
-    { year: 2018, text: "Worked as a freelance developer" },
-    { year: 2019, text: "Founded JavaScript Mastery" },
-    { year: 2020, text: "Shared my projects with the world" },
-    { year: 2021, text: "Started my own platform" },
-  ];
+  // export const TimeLineData = [
+  //   { year: 2017, text: "Started my journey" },
+  //   { year: 2018, text: "Worked as a freelance developer" },
+  //   { year: 2019, text: "Founded JavaScript Mastery" },
+  //   { year: 2020, text: "Shared my projects with the world" },
+  //   { year: 2021, text: "Started my own platform" },
+  // ];

@@ -174,7 +174,7 @@ export const Bio = {
       title: "Todo Web App",
       date: "2024 - 2025",
       description:
-        " A Todo Web App made with React JS, Tailwind CSS and Local Storage.",
+        "A Todo Web App made with React JS, Tailwind CSS and Local Storage.",
       image:
         "https://github.com/user-attachments/assets/4a22c0cf-6418-4851-b75d-387b90b7955f",
       tags: ["React Js", "Local Storage" ,"Tailwind CSS"],
@@ -197,6 +197,19 @@ export const Bio = {
       webapp: "https://tic-tac-toe-game-188a70.netlify.app/",
     },
 
+    {
+      id: 8,
+      title: "Weather App",
+      date: "2024 - 2025",
+      description:
+        "A React application that fetches and displays real-time weather data for any location. Users can search for current conditions and forecasts through a clean interface.",
+      image:
+        "https://github.com/user-attachments/assets/56fb9de2-e8f6-4069-9297-65db2ae1d4a6",
+      tags: ["React Js","Tailwind CSS" ,"Weather API"],
+      category: "web app",
+      github: "https://github.com/SARATHI-183/Weather-api",
+      webapp: "https://weather-api-swart-three.vercel.app/",
+    },
 
     {
       id: 5,

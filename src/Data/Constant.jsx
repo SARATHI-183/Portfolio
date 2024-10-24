@@ -216,7 +216,7 @@ export const Bio = {
       title: "Todo Web App",
       date: "2024 - 2025",
       description:
-        "A Todo Web App made with React JS, Tailwind CSS and Local Storage.",
+        "A Todo Web App allows users to manage tasks effortlessly with local storage support. Users can add, complete by double-clicking, and delete tasks ensuring effective organization.",
       image:
         "https://github.com/user-attachments/assets/4a22c0cf-6418-4851-b75d-387b90b7955f",
       tags: ["React Js", "Local Storage" ,"Tailwind CSS"],
@@ -230,7 +230,7 @@ export const Bio = {
       title: "Library Management System",
       date: "2022 - 2023",
       description:
-        "The Library Management System is a web-based application designed to streamline the management of library resources, including books and users account. ",      
+        "The Library Management System simplifies the management of library resources for both users and admins. Users can search, book, and update their details, while admins can add books and manage user accounts. This system enhances the overall efficiency and accessibility of library services.",      
         image:
         "https://github.com/SARATHI-183/Library-Management-System/assets/142735146/10e24b76-868c-4c9d-a1bc-1a770ca0b03a",
       tags: [
@@ -250,7 +250,7 @@ export const Bio = {
       title: "Digital Healthcare System",
       date: "2023 - 2024",
       description:
-      "A digital healthcare app designed to briefly describe the main purpose or features of your app. The Digital Healthcare App aims to provide a concise description of your app's primary purpose or goals. Whether you're a healthcare provider or a patient, this app briefly highlight how it benefits users",
+      "Digital healthcare sytem project streamlines healthcare access by allowing patients to book doctor appointments, view doctor availability, and receive prescriptions digitally. It enhances patient convenience and ensures efficient communication between healthcare providers and patients.",
       image:
         "https://github.com/SARATHI-183/Digital-Healthcare-System/assets/142735146/b8f53280-e49d-42fd-aa70-6cd481798cd9",
       tags: ["Python", "Html", "Css", "Flask", "MySql"],
@@ -263,7 +263,7 @@ export const Bio = {
       title: "Get Into Software",
       date: "2023 - 2024",
       description:
-        "A Get Into Software is a front-end software downloading website, it has variety of category of different software. The user can signup and login to their account.",
+        "A Get Into Software is a front-end software downloading website, it has variety of category of different software. The user have a signup and login to access this page.",
       image:
         "https://github.com/SARATHI-183/Get-Into-Software/assets/142735146/1ba72c48-fa93-42c7-ae38-ae49a668c3d7",
       tags: [

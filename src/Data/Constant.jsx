@@ -170,20 +170,6 @@ export const Bio = {
     },
 
     {
-      id: 4,
-      title: "Todo Web App",
-      date: "2024 - 2025",
-      description:
-        "A Todo Web App made with React JS, Tailwind CSS and Local Storage.",
-      image:
-        "https://github.com/user-attachments/assets/4a22c0cf-6418-4851-b75d-387b90b7955f",
-      tags: ["React Js", "Local Storage" ,"Tailwind CSS"],
-      category: "web app",
-      github: "https://github.com/SARATHI-183/TodoApp",
-      webapp: "https://todo-app-66fd0b.netlify.app/",
-    },
-
-    {
       id: 6,
       title: "Tic Tac Toe Game",
       date: "2024 - 2025",
@@ -198,7 +184,7 @@ export const Bio = {
     },
 
     {
-      id: 8,
+      id: 7,
       title: "Weather App",
       date: "2024 - 2025",
       description:
@@ -223,6 +209,20 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/SARATHI-183/Hotstar-clone",
       webapp: "https://rococo-bunny-903831.netlify.app/",
+    },
+
+    {
+      id: 4,
+      title: "Todo Web App",
+      date: "2024 - 2025",
+      description:
+        "A Todo Web App made with React JS, Tailwind CSS and Local Storage.",
+      image:
+        "https://github.com/user-attachments/assets/4a22c0cf-6418-4851-b75d-387b90b7955f",
+      tags: ["React Js", "Local Storage" ,"Tailwind CSS"],
+      category: "web app",
+      github: "https://github.com/SARATHI-183/TodoApp",
+      webapp: "https://todo-app-66fd0b.netlify.app/",
     },
 
     {

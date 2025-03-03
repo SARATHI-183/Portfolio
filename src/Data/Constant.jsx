@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SARATHI-183",
     resume:
-      "https://drive.google.com/file/d/1gaec1REzNDNioLyH7i3ccp2JWa4T-d62/view?usp=drive_link",
+      "https://drive.google.com/file/d/1AP6pdryQyzfFdTtSXCI9hGxRiqW9laR5/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/sarathi-p-78b980245/",
     twitter: "",
     insta: "https://www.instagram.com/_.sarathi__/",
@@ -170,6 +170,20 @@ export const Bio = {
     },
 
     {
+      id: 8,
+      title: "Cartify",
+      date: "2024 - 2025",
+      description:
+        "Cartify is a mini e-commerce platform where users can browse products, view details, and add them to their cart. It supports product search and displays order details, including total units and amount.",
+      image:
+        "https://github.com/user-attachments/assets/a5c99530-3fd3-48e4-b354-085ac49f2cf3",
+      tags: ["React Js", "Bootstarp", "Express Js" , "Node Js", "MongoDB"],
+      category: "web app",
+      github: "https://github.com/SARATHI-183/Cartify-Mini-Ecomm",
+      webapp: "https://cartify-ecommerce-0zcl.onrender.com/",
+    },
+
+    {
       id: 6,
       title: "Tic Tac Toe Game",
       date: "2024 - 2025",
@@ -258,25 +272,24 @@ export const Bio = {
       github: "https://github.com/SARATHI-183/Digital-Healthcare-System",
       webapp: "",
     },
-    {
-      id: 3,
-      title: "Get Into Software",
-      date: "2023 - 2024",
-      description:
-        "A Get Into Software is a front-end software downloading website, it has variety of category of different software. The user have a signup and login to access this page.",
-      image:
-        "https://github.com/SARATHI-183/Get-Into-Software/assets/142735146/1ba72c48-fa93-42c7-ae38-ae49a668c3d7",
-      tags: [
-        "Html",
-        "Css",
-        "Js",
-        "Node Js",
-        "MongoDB",
-      ],
+    // {
+    //   id: 3,
+    //   title: "Get Into Software",
+    //   date: "2023 - 2024",
+    //   description:
+    //     "A Get Into Software is a front-end software downloading website, it has variety of category of different software. The user have a signup and login to access this page.",
+    //   image:
+    //     "https://github.com/SARATHI-183/Get-Into-Software/assets/142735146/1ba72c48-fa93-42c7-ae38-ae49a668c3d7",
+    //   tags: [
+    //     "Html",
+    //     "Css",
+    //     "Js",
+    //     "Node Js",
+    //     "MongoDB",
+    //   ],
       
-      github: "https://github.com/SARATHI-183/Get-Into-Software",
-    },
-    
+    //   github: "https://github.com/SARATHI-183/Get-Into-Software",
+    // }    
     
 
   ];

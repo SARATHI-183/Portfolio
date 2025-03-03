@@ -129,9 +129,9 @@ export const Bio = {
       id: 0,
       img: "https://media.licdn.com/dms/image/C4E0BAQGFNi0LBu6UBQ/company-logo_200_200/0/1631355989858?e=2147483647&v=beta&t=fa4LXUejVv3IFXioPpoDQ1SQ_DWQ4PfkHG4676A2uVY",
       school: "kongu Engineering College, Erode",
-      date: "Oct 2021 - Sep 2025",
-      grade: "7.97 CGPA",
-      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kongu Engineering College. I have completed 5 semesters and have a CGPA of 7.97. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+      date: "Oct 2021 - Mar 2025",
+      grade: "8.01 CGPA",
+      desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kongu Engineering College. I have completed 7 semesters and have a CGPA of 8.01. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
       degree: "Bachelor of Engineering - BE, Computer Science and Engineering",
     },
     {

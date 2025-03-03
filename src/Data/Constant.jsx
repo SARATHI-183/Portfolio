@@ -177,7 +177,7 @@ export const Bio = {
         "Cartify is a mini e-commerce platform where users can browse products, view details, and add them to their cart. It supports product search and displays order details, including total units and amount.",
       image:
         "https://github.com/user-attachments/assets/a5c99530-3fd3-48e4-b354-085ac49f2cf3",
-      tags: ["React Js", "Bootstarp", "Express Js" , "Node Js", "MongoDB"],
+      tags: ["React Js", "Bootstrap", "Express Js" , "Node Js", "MongoDB"],
       category: "web app",
       github: "https://github.com/SARATHI-183/Cartify-Mini-Ecomm",
       webapp: "https://cartify-ecommerce-0zcl.onrender.com/",

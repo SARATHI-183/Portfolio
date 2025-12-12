@@ -21,7 +21,7 @@ const Footer = () => {
             <a href={Bio.github} target='display' className='inline-block text-[1.5rem] text-[#F2F3F4] transition-all delay-200 ease-in-out hover:text-[#854CE6] mx-[1rem]'><GitHubIcon/></a>
           </div>
           <p className='mt-[1.5rem] text-[0.9rem] text-center text-[#F2F3F4]'>
-            &copy; 2024 Sarathi. All rights reserved.
+            &copy; 2025 Sarathi. All rights reserved.
           </p>
         </div>
     </div>
